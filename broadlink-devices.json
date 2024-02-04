@@ -1,0 +1,62 @@
+{
+  "Vornado-6303DC": {
+    "Power": {
+      "Vornado On/Off": "/home/blu/broadlink/Vornado/6303DC/Vornado-on-off"
+    },
+    "Wind": {
+      "Vornado Wind Down": "/home/blu/broadlink/Vornado/6303DC/Vornado-wind-down",
+      "Vornado Wind Up": "/home/blu/broadlink/Vornado/6303DC/Vornado-wind-up"
+    },
+    "Timer": {
+      "Vornado Timer": "/home/blu/broadlink/Vornado/6303DC/Vornado-timer"
+    }
+  },
+  "RME-ADI2-DAC-FS": {
+    "Volume": {
+      "Volume Up": "/home/blu/broadlink/RME/ADI2-DAC-FS/vol+",
+      "Volume Down": "/home/blu/broadlink/RME/ADI2-DAC-FS/vol-"
+    },
+    "Equalizer": {
+      "Treble+": "/home/blu/broadlink/RME/ADI2-DAC-FS/treble+",
+      "Treble-": "/home/blu/broadlink/RME/ADI2-DAC-FS/treble-",
+      "Bass+": "/home/blu/broadlink/RME/ADI2-DAC-FS/bass+",
+      "Bass-": "/home/blu/broadlink/RME/ADI2-DAC-FS/bass-"
+    },
+    "Toggles": {
+      "Headphone/Speaker": "/home/blu/broadlink/RME/ADI2-DAC-FS/RME-switch-headphone-speaker",
+      "Dim": "/home/blu/broadlink/RME/ADI2-DAC-FS/dim",
+      "Loudness": "/home/blu/broadlink/RME/ADI2-DAC-FS/loudness",
+      "Power (no toggle)": "/home/blu/broadlink/RME/ADI2-DAC-FS/power",
+      "Power off/on": "/home/blu/broadlink/RME/ADI2-DAC-FS/power-held"
+    },
+    "Channel Balance": {
+      "Left Channel Balance": "/home/blu/broadlink/RME/ADI2-DAC-FS/L-chan-bal",
+      "Right Channel Balance": "/home/blu/broadlink/RME/ADI2-DAC-FS/r-chan-bal"
+    },
+    "Other": {
+      "1-ana": "/home/blu/broadlink/RME/ADI2-DAC-FS/1-ana",
+      "2-aes": "/home/blu/broadlink/RME/ADI2-DAC-FS/2-aes",
+      "3-dark": "/home/blu/broadlink/RME/ADI2-DAC-FS/3-dark",
+      "Select": "/home/blu/broadlink/RME/ADI2-DAC-FS/sel"
+    }
+  },
+  "IQAir Health Pro 250": {
+    "Power": {
+      "IQAir On/Off": "/home/blu/broadlink/IQAir/Health-Pro-250/IQAir-on-off"
+    },
+    "Filtration": {
+      "Filtration Level 1": "/home/blu/broadlink/IQAir/Health-Pro-250/IQAir-HealthPro-filtration-level-1",
+      "Filtration Level 2": "/home/blu/broadlink/IQAir/Health-Pro-250/IQAir-HealthPro-filtration-level-2",
+      "Filtration Level 3": "/home/blu/broadlink/IQAir/Health-Pro-250/IQAir-HealthPro-filtration-level-3",
+      "Filtration Level 4": "/home/blu/broadlink/IQAir/Health-Pro-250/IQAir-HealthPro-filtration-level-4",
+      "Filtration Level 5": "/home/blu/broadlink/IQAir/Health-Pro-250/IQAir-HealthPro-filtration-level-5",
+      "Filtration Level 6": "/home/blu/broadlink/IQAir/Health-Pro-250/IQAir-HealthPro-filtration-level-6"
+    }
+  },
+  "ezcoo-EZ-SW24-U3L": {
+    "PC/iPad": {
+      "PC": "/home/blu/broadlink/ezcoo/EZ-SW24-U3L/ezcoo-usb-hub-pc-1",
+      "iPad": "/home/blu/broadlink/ezcoo/EZ-SW24-U3L/ezcoo-usb-hub-pc-2"
+    }
+  }
+}
