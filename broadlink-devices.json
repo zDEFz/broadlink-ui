@@ -40,6 +40,20 @@
       "Select": "/home/blu/broadlink/RME/ADI2-DAC-FS/sel"
     }
   },
+  "KC-401CY": {
+    "PC-1; DAC": {
+      "Switch to PC-1": "/home/blu/broadlink/KC-401CY/KC-401CY-1"
+    },
+    "PC-2; DAC": {
+      "Switch to PC-2": "/home/blu/broadlink/KC-401CY/KC-401CY-2"
+    },
+    "PC-3; DAC": {
+      "Switch to PC-3": "/home/blu/broadlink/KC-401CY/KC-401CY-3"
+    },
+    "PC-4; DAC": {
+      "Switch to PC-4": "/home/blu/broadlink/KC-401CY/KC-401CY-4"
+    }
+  },
   "IQAir Health Pro 250": {
     "Power": {
       "IQAir On/Off": "/home/blu/broadlink/IQAir/Health-Pro-250/IQAir-on-off"
