@@ -8,9 +8,3 @@ Hacked together UI for Broadlink devices like the Broadlink RM4 Pro
 - https://github.com/mjg59/python-broadlink/tree/master/cli
 
 # Installation
-
-```bash
-curl -s https://raw.githubusercontent.com/mjg59/python-broadlink/master/cli/broadlink_cli -o /usr/bin/broadlink_cli
-curl -s https://raw.githubusercontent.com/mjg59/python-broadlink/master/cli/broadlink_cli -o /usr/bin/broadlink_discovery
-chmod +x /usr/bin/broadlink_*
-```
