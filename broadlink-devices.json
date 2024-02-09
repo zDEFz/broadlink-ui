@@ -68,9 +68,9 @@
     }
   },
   "ezcoo-EZ-SW24-U3L": {
-    "PC/iPad": {
-      "PC": "/home/blu/broadlink/ezcoo/EZ-SW24-U3L/ezcoo-usb-hub-pc-1",
-      "iPad": "/home/blu/broadlink/ezcoo/EZ-SW24-U3L/ezcoo-usb-hub-pc-2"
+    "PC/mini PC": {
+      "mainrig-MS-7D51": "/home/blu/broadlink/ezcoo/EZ-SW24-U3L/ezcoo-usb-hub-pc-1",
+      "mini-am06pro": "/home/blu/broadlink/ezcoo/EZ-SW24-U3L/ezcoo-usb-hub-pc-2"
     }
   }
 }
