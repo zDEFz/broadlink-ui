@@ -47,5 +47,6 @@ function broadlink_ui() {
 # Usage
 You left click a button to send the comman.d
 You right click a button to copy the open a menu to copy the command line.
+Would get you for instance `broadlink_cli --device @/home/blu/broadlink/BEDROOM.device --send @/home/blu/broadlink/RME/ADI2-DAC-FS/1-ana`
 
 ![08ece0fd-528a-4955-9804-ecc05fc8ddda](https://github.com/zDEFz/broadlink-ui/assets/24463722/7d21de93-0343-4321-adce-d55087924e49)
