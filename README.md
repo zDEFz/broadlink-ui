@@ -20,9 +20,15 @@ yay python-broadlink
 
 Please follow https://github.com/mjg59/python-broadlink/tree/master/cli
 ```bash
-nano KITCHEN.device
+# nano KITCHEN.device
 # 0x5213 192.168.178.98 ec0baed88fcb
 <yourdeviceidentifier> <IP> <deviceID>
+
+# nano broadlink_ui.py
+# adjust as needed
+
+device_path = "/home/blu/broadlink/BEDROOM.device"
+file_path = "/home/blu/broadlink/broadlink-devices.json"
 ```
 
 
