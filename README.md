@@ -20,7 +20,7 @@ yay python-broadlink
 
 Please follow https://github.com/mjg59/python-broadlink/tree/master/cli
 ```bash
-# nano KITCHEN.device
+# nano BEDROOM.device
 # 0x5213 192.168.178.98 ec0baed88fcb
 <yourdeviceidentifier> <IP> <deviceID>
 
