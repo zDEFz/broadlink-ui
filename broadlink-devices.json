@@ -11,40 +11,40 @@
       "Vornado Timer": "/home/blu/broadlink/Vornado/6303DC/Vornado-timer"
     }
   },
-    "RME-ADI2-DAC-FS": {
-      "Volume": {
-        "Volume Up": "/home/blu/broadlink/RME/ADI2-DAC-FS/vol+",
-        "Volume Down": "/home/blu/broadlink/RME/ADI2-DAC-FS/vol-"
-      },
-      "Equalizer": {
-        "Treble+": "/home/blu/broadlink/RME/ADI2-DAC-FS/treble+",
-        "Treble-": "/home/blu/broadlink/RME/ADI2-DAC-FS/treble-",
-        "Bass+": "/home/blu/broadlink/RME/ADI2-DAC-FS/bass+",
-        "Bass-": "/home/blu/broadlink/RME/ADI2-DAC-FS/bass-"
-      },
-      "Toggles": {
-        "Headphone/Speaker": "/home/blu/broadlink/RME/ADI2-DAC-FS/toggle-speakers-headphone",
-        "Dim": "/home/blu/broadlink/RME/ADI2-DAC-FS/dim",
-        "Loudness": "/home/blu/broadlink/RME/ADI2-DAC-FS/enable-loudness",
-        "Power (no toggle)": "/home/blu/broadlink/RME/ADI2-DAC-FS/power",
-        "Power off/on": "/home/blu/broadlink/RME/ADI2-DAC-FS/power-held"
-    },    
-      "Channel Balance": {
-        "Left Channel Balance": "/home/blu/broadlink/RME/ADI2-DAC-FS/L-chan-bal",
-        "Right Channel Balance": "/home/blu/broadlink/RME/ADI2-DAC-FS/r-chan-bal"
-      },
-      "Other": {
-        "1-ana": "/home/blu/broadlink/RME/ADI2-DAC-FS/1-ana",
-        "2-aes": "/home/blu/broadlink/RME/ADI2-DAC-FS/2-aes",
-        "3-dark": "/home/blu/broadlink/RME/ADI2-DAC-FS/3-dark",
-        "Select": "/home/blu/broadlink/RME/ADI2-DAC-FS/sel",
-        "Input Optical": "/home/blu/broadlink/RME/ADI2-DAC-FS/input-opt",
-        "Input USB": "/home/blu/broadlink/RME/ADI2-DAC-FS/input-usb",
-        "Input Coax": "/home/blu/broadlink/RME/ADI2-DAC-FS/input-coax",
-        "Mute": "/home/blu/broadlink/RME/ADI2-DAC-FS/mute",
-        "Toggle Loudness": "/home/blu/broadlink/RME/ADI2-DAC-FS/enable-loudness"
-      }
+  "RME-ADI2-DAC-FS": {
+    "Volume": {
+      "Volume Up": "/home/blu/broadlink/RME/ADI2-DAC-FS/vol+",
+      "Volume Down": "/home/blu/broadlink/RME/ADI2-DAC-FS/vol-"
     },
+    "Equalizer": {
+      "Treble+": "/home/blu/broadlink/RME/ADI2-DAC-FS/treble+",
+      "Treble-": "/home/blu/broadlink/RME/ADI2-DAC-FS/treble-",
+      "Bass+": "/home/blu/broadlink/RME/ADI2-DAC-FS/bass+",
+      "Bass-": "/home/blu/broadlink/RME/ADI2-DAC-FS/bass-"
+    },
+    "Toggles": {
+      "Headphone/Speaker": "/home/blu/broadlink/RME/ADI2-DAC-FS/toggle-speakers-headphone",
+      "Loudness": "/home/blu/broadlink/RME/ADI2-DAC-FS/enable-loudness",
+      "Power (no toggle)": "/home/blu/broadlink/RME/ADI2-DAC-FS/power",
+      "Power off/on": "/home/blu/broadlink/RME/ADI2-DAC-FS/power-held",
+      "Mute": "/home/blu/broadlink/RME/ADI2-DAC-FS/mute"
+    },
+    "Channel Balance": {
+      "Left Channel Balance": "/home/blu/broadlink/RME/ADI2-DAC-FS/L-chan-bal",
+      "Right Channel Balance": "/home/blu/broadlink/RME/ADI2-DAC-FS/r-chan-bal"
+    },
+    "Select Input": {
+      "Input Optical": "/home/blu/broadlink/RME/ADI2-DAC-FS/input-opt",
+      "Input USB": "/home/blu/broadlink/RME/ADI2-DAC-FS/input-usb",
+      "Input Coax": "/home/blu/broadlink/RME/ADI2-DAC-FS/input-coax"
+    },
+    "Numbers": {
+      "1-ana": "/home/blu/broadlink/RME/ADI2-DAC-FS/1-ana",
+      "2-aes": "/home/blu/broadlink/RME/ADI2-DAC-FS/2-aes",
+      "3-dark": "/home/blu/broadlink/RME/ADI2-DAC-FS/3-dark",
+      "4-dim": "/home/blu/broadlink/RME/ADI2-DAC-FS/4-dim"
+    }
+  },
   "KC-401CY": {
     "PC-1; DAC": {
       "Switch to PC-1": "/home/blu/broadlink/KC-401CY/KC-401CY-1"
